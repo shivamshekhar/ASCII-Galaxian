@@ -12,7 +12,7 @@ Controls:
 A: move Left
 D: move right
 W: fires primary missile
-P: fires dual lasers
+O: fires dual lasers
 [: fires left laser
 ]: fires right laser
 L: saves game
